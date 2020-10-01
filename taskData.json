@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Laundry",
+      "type": "Easy"
+    },
+    {
+      "id": 2,
+      "name": "Cut Grass",
+      "type": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Deep Clean Kitchen",
+      "type": "Hard"
+    }
+  ]
+}
